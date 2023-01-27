@@ -4,7 +4,7 @@ public class secondProgram {
 
 	public static void main(String[] args) {
 	
-		String text = "Welcome to my home";
+		/*String text = "Welcome to my home";
 		
 		int a, b, c, d,e;
 		
@@ -23,7 +23,10 @@ public class secondProgram {
 		y = 35;
 		z = x*y;
 		System.out.println(z);
-		//testing for second commit
+		//testing for second commit*/
+		
+		String text1 = "it's Saksham's bday";
+		System.out.println(text1);		
 		 
 	
 

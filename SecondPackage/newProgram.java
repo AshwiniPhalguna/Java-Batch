@@ -2,7 +2,8 @@ package SecondPackage;
 
 public class newProgram {
 
-	public static void main(String[] args) {
+	private static final String Java = null;
+     public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		/*int x,y,z;
@@ -15,7 +16,7 @@ public class newProgram {
 		
 		System.out.println("The rusult is " + z+" correct");*/
 		
-		String x = "I am learning Java ";
+		/*String x = "I am learning Java ";
 		System.out.println(x);
 		
 		System.out.println(x.length());
@@ -24,7 +25,24 @@ public class newProgram {
 		
 		System.out.println(x.toLowerCase());
 		
-		System.out.println(x.indexOf("learning"));
+		System.out.println(x.indexOf("learning"));*/
+		
+		
+		/*String Name = "I am learing to computer science";
+		String[] splitvalue = Name.split("to");
+		System.out.println(splitvalue[0]);
+		System.out.println(splitvalue[1]);*/
+		
+		int x = 0;
+		
+		for (x=0;x<=100;x++)
+		{
+			System.out.println(x);
+			
+		}
+		
+		
+
 
 	}
 
