@@ -33,14 +33,25 @@ public class newProgram {
 		System.out.println(splitvalue[0]);
 		System.out.println(splitvalue[1]);*/
 		
-		int x = 0;
+		/*int x = 0;
 		
 		for (x=0;x<=100;x++)
 		{
 			System.out.println(x);
 			
 		}
-		
+		*/
+    	 int k=1;
+    	 for(int i=0;i<=4;i++)
+    	 {
+    		// System.out.println("This line is printed "+ i);
+    		 for(int j=1;j<=i;j++)
+    		 {
+    			 System.out.print(k+" ");
+    			 k++;
+    		 }
+    		 System.out.println("");
+    	 }
 		
 
 
